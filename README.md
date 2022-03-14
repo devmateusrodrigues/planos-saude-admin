@@ -1,3 +1,3 @@
-# App teste de admissão
+# Admission test propoused app
 
-Esse app desenvolvido em Flutter foi criado para provar expertise em aplicações mobile básicas. Tem como objetivo gerenciar usuários de um sistema de plano de saúde, sendo possível inserir, editar e excluir todos os registros.
+This Flutter developed app was created to assess expertise in basic mobile applications. It has as its goal manage users of a health care system, being possible to insert, edit and delete all the data.
